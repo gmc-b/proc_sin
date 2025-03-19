@@ -1,0 +1,18 @@
+{
+    "CH3": {
+        "peak_prominence": 0.2,
+        "peak_min_distance": 40
+    },
+    "CH4": {
+        "peak_prominence": 0.1,
+        "peak_min_distance": 50
+    },
+    "CH5": {
+        "peak_prominence": 0.1,
+        "peak_min_distance": 100
+    },
+    "CH40": {
+        "peak_prominence": 2.1,
+        "peak_min_distance": 80
+    }
+}
